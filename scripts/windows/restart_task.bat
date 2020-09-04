@@ -10,6 +10,5 @@
 :error
 @echo Please specify a program...
 @goto exit
-@echo win
 
 :exit
